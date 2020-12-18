@@ -12,3 +12,4 @@
 * [lina](https://github.com/TakutoYoshikai/lina)
 * [phalanx](https://github.com/TakutoYoshikai/phalanx)
 * [nats](https://github.com/TakutoYoshikai/nats)
+* [angie-sirius](https://github.com/TakutoYoshikai/angie-sirius)
