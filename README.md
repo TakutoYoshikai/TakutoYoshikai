@@ -11,6 +11,7 @@
 * [tsystem](https://github.com/TakutoYoshikai/tsystem-core)
 * [nats](https://github.com/TakutoYoshikai/nats)
 * [lina](https://github.com/TakutoYoshikai/lina)
+* [elemental-sight](https://github.com/TakutoYoshikai/elemental-sight)
 * [phalanx](https://github.com/TakutoYoshikai/phalanx)
 * [angie-sirius](https://github.com/TakutoYoshikai/angie-sirius)
 * [parade](https://github.com/TakutoYoshikai/parade)
