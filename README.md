@@ -13,6 +13,7 @@
 * [lina](https://github.com/TakutoYoshikai/lina)
 * [elemental-sight](https://github.com/TakutoYoshikai/elemental-sight)
 * [phalanx](https://github.com/TakutoYoshikai/phalanx)
+* [trident](https://github.com/TakutoYoshikai/trident)
 * [angie-sirius](https://github.com/TakutoYoshikai/angie-sirius)
 * [parade](https://github.com/TakutoYoshikai/parade)
 * [sirius](https://github.com/TakutoYoshikai/sirius)
