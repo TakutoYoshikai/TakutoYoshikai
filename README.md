@@ -11,6 +11,7 @@
 * [tsystem](https://github.com/TakutoYoshikai/tsystem-core)
 * [nats](https://github.com/TakutoYoshikai/nats)
 * [lina](https://github.com/TakutoYoshikai/lina)
+* [shiba](https://github.com/TakutoYoshikai/shiba)
 * [elemental-sight](https://github.com/TakutoYoshikai/elemental-sight)
 * [phalanx](https://github.com/TakutoYoshikai/phalanx)
 * [trident](https://github.com/TakutoYoshikai/trident)
