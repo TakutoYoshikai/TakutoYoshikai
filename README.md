@@ -15,12 +15,6 @@
 * [elemental-sight](https://github.com/TakutoYoshikai/elemental-sight)
 * [phalanx](https://github.com/TakutoYoshikai/phalanx)
 * [trident](https://github.com/TakutoYoshikai/trident)
-* [angie-sirius](https://github.com/TakutoYoshikai/angie-sirius)
-* [parade](https://github.com/TakutoYoshikai/parade)
-* [sirius](https://github.com/TakutoYoshikai/sirius)
-* [miki](https://github.com/TakutoYoshikai/miki)
-* [cad](https://github.com/TakutoYoshikai/cad)
-* [mist-dispersion](https://github.com/TakutoYoshikai/mist-dispersion)
 
 ## Web Tools
 * [rcjs](https://github.com/TakutoYoshikai/rcjs)
