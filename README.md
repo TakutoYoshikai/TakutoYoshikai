@@ -2,7 +2,7 @@
 
 <img src="takuto.png" width="100">
 
-[Portfolio](https://yoshikai.net) | [Github Digest](https://github.com/TakutoYoshikai/portfolio-github) | [Twitter](https://twitter.com/TakutoYoshikai) | [My Information](https://scrapbox.io/TakutoYoshikai)
+[Portfolio](https://yoshikai.net) | [Github Digest](https://github.com/TakutoYoshikai/portfolio-github) | [Twitter](https://twitter.com/TakutoYoshikai) | [About Me](https://scrapbox.io/TakutoYoshikai)
 
 ## Web Services
 [HONJA](https://yoshikai.net/HONJA) | [COWAKÉ](https://yoshikai.net/cowake/en)
