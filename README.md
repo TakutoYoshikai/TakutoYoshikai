@@ -14,4 +14,4 @@
 [privacy](https://github.com/TakutoYoshikai/tsystem-mod-privacy) | [tremocon](https://github.com/TakutoYoshikai/tsystem-mod-tremocon) | [phalanx](https://github.com/TakutoYoshikai/tsystem-mod-phalanx) | [angie-sirius](https://github.com/TakutoYoshikai/tsystem-mod-angie-sirius) | [shiba](https://github.com/TakutoYoshikai/tsystem-mod-shiba)
 
 ## Web Tools
-[rcjs](https://github.com/TakutoYoshikai/rcjs) | [chat-profile](https://github.com/TakutoYoshikai/chat-profile) | [danger-alert](https://github.com/TakutoYoshikai/danger-alert) | [poke](https://github.com/TakutoYoshikai/poke-server) | [lan-chat](https://github.com/TakutoYoshikai/lan-chat)
+[rcjs](https://github.com/TakutoYoshikai/rcjs) | [chat-profile](https://github.com/TakutoYoshikai/chat-profile) | [danger-alert](https://github.com/TakutoYoshikai/danger-alert) | [poke](https://github.com/TakutoYoshikai/poke-server) | [lan-chat](https://github.com/TakutoYoshikai/lan-chat) | [scrapbox-api](https://github.com/TakutoYoshikai/scrapbox-api)
