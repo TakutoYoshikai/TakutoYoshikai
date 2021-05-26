@@ -4,7 +4,7 @@
 
 [Portfolio](https://yoshikai.net) | [Github Digest](https://github.com/TakutoYoshikai/portfolio-github) | [Twitter](https://twitter.com/TakutoYoshikai) | [About me](https://scrapbox.io/TakutoYoshikai)
 
-I contribute to [3hacks](https://www.3hacks.net)
+I contribute to [3hacks](https://www.3hacks.net).
 
 ## Web Services
 [HONJA](https://yoshikai.net/HONJA) | [COWAKÉ](https://yoshikai.net/cowake/en)
