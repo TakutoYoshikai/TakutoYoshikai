@@ -1,6 +1,6 @@
 # TAKUTO YOSHIKAI
 
-<img src="./takuto.png" width="100">
+<img src="./takuto.png" width="140">
 
 [Portfolio](https://yoshikai.net) | [About me](https://scrapbox.io/TakutoYoshikai)
 
