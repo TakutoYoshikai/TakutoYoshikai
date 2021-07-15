@@ -6,9 +6,8 @@
 
 I contribute to [3hacks](https://3hacks.net).
 
-Contact me if you are interested.
-* [Twitter](https://twitter.com/TakutoYoshikai)
-* [Instagram](https://instagram.com/takutoyoshikai)
+## SNS
+[Twitter](https://twitter.com/TakutoYoshikai) | [Instagram](https://instagram.com/takutoyoshikai)
 
 ## Web Services
 [HONJA](https://yoshikai.net/HONJA) | [COWAKÉ](https://yoshikai.net/cowake/en)
