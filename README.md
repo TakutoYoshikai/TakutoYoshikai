@@ -2,7 +2,7 @@
 
 <img src="./takuto.png" width="100">
 
-[About me](https://linktr.ee/takutoyoshikai)
+[Portfolio](https://yoshikai.net) | [About me](https://scrapbox.io/TakutoYoshikai)
 
 I contribute to [3hacks](https://3hacks.net).
 
