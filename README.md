@@ -2,7 +2,7 @@
 
 <img src="./takuto.png" width="100">
 
-[Portfolio](https://yoshikai.net) | [Github Digest](https://github.com/TakutoYoshikai/portfolio-github) | [Twitter](https://twitter.com/TakutoYoshikai) | [About me](https://scrapbox.io/TakutoYoshikai)
+[About me](https://linktr.ee/takutoyoshikai)
 
 I contribute to [3hacks](https://3hacks.net).
 
