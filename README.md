@@ -4,8 +4,6 @@
 
 [Portfolio](https://yoshikai.net) | [About me](https://scrapbox.io/TakutoYoshikai)
 
-I contribute to [3hacks](https://3hacks.net).
-
 ## SNS
 [Twitter](https://twitter.com/TakutoYoshikai) | [Instagram](https://instagram.com/takutoyoshikai)
 
