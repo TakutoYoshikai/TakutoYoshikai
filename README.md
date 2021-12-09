@@ -1,4 +1,4 @@
-# TAKUTO YOSHIKAI
+# lucks
 
 <img src="./takuto.png" width="140">
 
