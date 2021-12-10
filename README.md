@@ -1,4 +1,4 @@
-# lucks
+# LUCKS
 
 <img src="./takuto.png" width="140">
 
