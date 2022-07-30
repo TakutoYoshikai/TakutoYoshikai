@@ -4,6 +4,9 @@
 
 [Portfolio](https://yoshikai.net) | [About me](https://scrapbox.io/TakutoYoshikai)
 
+## Reported CVE
+[CVE-2022-34265 (Django SQL Injection)](https://github.com/aeyesec/CVE-2022-34265)
+
 ## SNS
 [Twitter](https://twitter.com/TakutoYoshikai) | [Instagram](https://instagram.com/takutoyoshikai)
 
