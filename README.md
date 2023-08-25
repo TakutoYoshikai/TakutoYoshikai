@@ -2,12 +2,7 @@
 
 <img src="./takuto.png" width="140">
 
-[Portfolio](https://yoshikai.net) | [About me](https://scrapbox.io/TakutoYoshikai)
-
-## SNS
-[Twitter](https://twitter.com/TakutoYoshikai) | [Instagram](https://instagram.com/takutoyoshikai)
-
-## Web Services
+## Personal Works
 [HONJA](https://yoshikai.net/HONJA) ([Repository](https://github.com/TakutoYoshikai/honja)) | [COWAKÉ](https://yoshikai.net/cowake/en)
 
 ## Reported CVE
