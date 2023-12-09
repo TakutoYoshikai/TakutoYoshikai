@@ -2,6 +2,8 @@
 
 <img src="./takuto.png" width="140">
 
+Web Developer, Security Researcher, Bug Hunter.
+
 ## Personal Works
 [HONJA](https://yoshikai.net/HONJA) ([Repository](https://github.com/TakutoYoshikai/honja)) | [COWAKÉ](https://yoshikai.net/cowake/en)
 
