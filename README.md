@@ -1,6 +1,6 @@
 # TAKUTO YOSHIKAI
 
-<img src="./takuto.png" width="140">
+<img src="./takuto.jpg" width="140">
 
 Software Engineer / Bug Hunter
 
