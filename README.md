@@ -2,7 +2,7 @@
 
 <img src="./takuto.jpg" width="140">
 
-Software Engineer / Bug Hunter
+HPC Engineer / Security Engineer
 
 ## Personal Works
 [HONJA](https://yoshikai.net/HONJA) ([Repository](https://github.com/TakutoYoshikai/honja)) | [COWAKÉ](https://yoshikai.net/cowake/en)
